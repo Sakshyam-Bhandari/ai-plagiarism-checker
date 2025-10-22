@@ -1,0 +1,5 @@
+{
+  "name": "AI Plagiarism Checker",
+  "description": "An advanced plagiarism checker powered by Gemini. Analyze text or upload files to detect potential plagiarism with a detailed report and source matching.",
+  "requestFramePermissions": []
+}
